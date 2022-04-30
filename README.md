@@ -9,7 +9,7 @@ Hi! I’m Pablo, I consider myself an eager person for learning. I love reading 
 - ❤️ I love solving problems through software development.
 - 🏋🏻 I enjoy sports such as bike and weight training.
 - 👨🏻‍💻 Software Engineer at [nucleoo](https://www.nucleoo.com).
-- 🎓 Degree in Computer Sciences at [UGR](https://www.ugr.es/en/).
+- 🎓 Degree in Computer Science at [UGR](https://www.ugr.es/en/). Software engineer specialization.
 - 🧠 Interested in team management.
 - 💡 Learning Terraform and IaC tools.
 - ⌛ In my spare time, I love reading about software design and good practice.
